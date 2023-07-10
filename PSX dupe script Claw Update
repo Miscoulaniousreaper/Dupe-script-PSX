@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Miscoulaniousreaper/PSX-duplication-script-Claw-Update-/main/Dupe%20Script", true))()
